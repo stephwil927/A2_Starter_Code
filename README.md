@@ -4,8 +4,8 @@
 
 - Student A: Stephanie Wilson
 - GitHub username: stephwil927
-- Student B: Melanie Sebel and Alyona Zabel
-- GitHub username: melaniesebel and alyonazabel
+- Student B: Melanie Sebel & Alyona Zabel
+- GitHub username: melaniesebel & alyonazabel
 
 ## Branch Work
 
@@ -19,6 +19,5 @@
 
 2. How did you resolve it?
 
-3. Give two practices that can reduce unnecessary Git conflicts on a real team.
-    -
-    -
+3. ## Give two practices that can reduce unnecessary Git conflicts on a real team.
+   -
