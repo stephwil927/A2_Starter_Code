@@ -9,9 +9,9 @@
 
 ## Branch Work
 
-- Feature branch created:
-- What changed on the branch:
-- Who merged it into `main`:
+- Feature branch created: Feature-About
+- What changed on the branch: Added two meaningful sentences in the About section
+- Who merged it into `main`: Alyona
 
 ## Conflict Reflection
 
@@ -20,4 +20,4 @@
 2. How did you resolve it?
 
 3. ## Give two practices that can reduce unnecessary Git conflicts on a real team.
-   -
+    -
