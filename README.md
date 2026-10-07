@@ -4,8 +4,10 @@
 
 - Student A: Stephanie Wilson
 - GitHub username: stephwil927
-- Student B: Melanie Sebel & Alyona Zabel
-- GitHub username: melaniesebel & alyonazabel
+- Student B: Alyona Zabel
+- GitHub username: alyonazabel
+- Student C: Melanie Sebel
+- GitHub username: melaniesebel
 
 ## Branch Work
 
